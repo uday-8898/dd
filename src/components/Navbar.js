@@ -54,6 +54,7 @@ const Navbar = () => {
           <li><a href="#timeline-main">Steps</a></li>
           <li><a href="#why-choose-us">Why Choose Us</a></li>
           <li><a href="#faq-form-section">Contact</a></li>
+          <li><a href="#pricing">Pricing</a></li>
         </ul>
         <button className="get-started-btn"  onClick={handleClick}>Get Started</button>
       </nav>

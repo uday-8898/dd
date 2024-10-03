@@ -35,7 +35,7 @@ const PricingBar = () => {
     };
 
     return (
-        <Container>
+        <Container id='pricing'>
             <Title>Pricing Overview</Title>
             <CardsContainer>
                 {/* Card 1: Number of Users */}
