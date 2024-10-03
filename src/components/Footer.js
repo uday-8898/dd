@@ -6,11 +6,11 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer__container container grid">
         <div className="footer__content grid">
-          <a href="/" className="footer__logo">DataDiscover.ai</a>
+          <a href="https://datadiscover.azurewebsites.net/" className="footer__logo">DataDiscover.ai</a>
 
           <ul className="footer__links">
             <li>
-              <a href="/" className="footer__link">Home</a>
+              <a href="#home" className="footer__link">Home</a>
             </li>
             <li>
               <a href="#about-section" className="footer__link">About Us</a>

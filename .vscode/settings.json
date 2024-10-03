@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0e5c281c-ecc6-4ae6-8c0c-9fdefeac81d2/resourceGroups/AI-Team/providers/Microsoft.Web/sites/DATADISCOVER",
+    "appService.deploySubpath": "."
+}

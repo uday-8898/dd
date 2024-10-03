@@ -92,18 +92,20 @@
 }
 
 .form-section button {
-  padding: 10px;
-  background-color: #004d6f; /* Button background color */
-  color: #ffffff;
+  background-color: #fff;
+  color: #000000;
   border: none;
-  border-radius: 4px;
+  padding: 10px 20px;
+  font-weight: 900;
+  font-size: 17px;
+  border-radius: 10px;
   cursor: pointer;
-  font-size: 16px;
+  transition: background-color 0.3s ease;
 }
 
 .form-section button:hover {
-  background-color: #00283a; /* Darker button background on hover */
-}
+  background-color:green; /* Darker blue background on hover */
+  color: #fff;}
 
 .important {
   color: red; /* Color for important fields */

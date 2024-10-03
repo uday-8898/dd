@@ -9,6 +9,7 @@ import ProductVideo from '../components/ProductVideo';
 import WhyChooseUs from '../components/WhyChooseUs';
 import FAQFormSection from '../components/FAQFormSection';
 import Footer from '../components/Footer';
+import PricingBar from '../components/PricingBar';
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
       <CTA/>
       <ProductVideo/>
       <WhyChooseUs/>
+      <PricingBar/>
       <FAQFormSection/>
       <Footer/>
     </>

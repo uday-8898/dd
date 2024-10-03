@@ -4,7 +4,7 @@ import clogo from '../assets/clogo.png';
 
 function Hero() {
     return (
-        <div className='hero'>
+        <div className='hero' id='home'>
             <div className="text-content">
                 <div className="motto">
                    <img 

@@ -8,6 +8,17 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.logo a {
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.logo a:hover {
+  color: #f0f0f0; /* Slight change on hover for a subtle effect */
+}
+
 .top-bar .left-info span, 
 .top-bar .right-info span {
   margin-right: 20px;

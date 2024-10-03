@@ -40,7 +40,9 @@ const Navbar = () => {
       {/* Main Navbar */}
       <nav className="main-nav">
         <div className="logo">
-          <h1>DataDiscover.ai</h1>
+          <a href="https://datadiscover.azurewebsites.net/" rel="noopener noreferrer">
+          DataDiscover.ai
+          </a>
         </div>
         {/* Hamburger Icon */}
         <div className="menu-icon" onClick={toggleMenu}>

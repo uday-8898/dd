@@ -55,7 +55,7 @@ const AboutSection = () => {
               <strong>DataDiscover.ai</strong> is an advanced business intelligence platform designed to mine and analyze business data for actionable insights. Using cutting-edge AI technologies, it processes and queries large volumes of unstructured and structured data quickly and accurately, turning raw data into business opportunities.
             </p>
             <p className="about_text">
-              Our AI-powered system simplifies complex workflows, enabling seamless data integration, multi-document querying, and real-time analysis, empowering businesses to make data-driven decisions more effectively and efficiently.
+              Our AI-powered system <b>simplifies complex workflows, enabling seamless data integration, multi-document querying, and real-time analysis</b>, empowering businesses to make data-driven decisions more effectively and efficiently.
             </p>
             <div className="custom-list">
               <ul>
